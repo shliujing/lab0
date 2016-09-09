@@ -35,7 +35,7 @@ Google Chrome是当前主流的网页浏览器。
 ## 出题优
 
 ### 在出题优进行讨论  
-1. 访问出题优网页版（http://cty.zuvio.com.cn），并用自己的用户名、密码登录
+1. 访问出题优网页版：http://cty.zuvio.com.cn ，并用自己的用户名、密码登录
 2. 点击反馈讨论，点击反馈区，进入讨论版面
 3. 在讨论版面点击“新增讨论”，即可增加讨论帖
 4. 在讨论版面点击任意已发布的讨论主题，即可进入讨论
@@ -71,7 +71,7 @@ GitHub就是这样一个提供了版本控制的代码托管网站。也就是�
 1. 注册GitHub账号。选择你喜欢的用户名、学号邮箱及密码，点击 `Sign up for GitHub` 前往注册。
    ![image](https://cloud.githubusercontent.com/assets/7262715/18254555/665afc4c-73d1-11e6-8db0-be555d8e75e2.png)
 
-2. 前往课程主页：https://github.com/java-a。
+2. 前往课程主页：https://github.com/java-a 。
 
 
 1. 熟悉[如何在讨论区中发布新的帖子？](https://github.com/java-a/syllabus/issues/1)及[如何回复一个帖子？](https://github.com/java-a/syllabus/issues/2)。
